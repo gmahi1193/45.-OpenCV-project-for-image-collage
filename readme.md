@@ -1,0 +1,1 @@
+This project is about having basic idea of application of OpenCV.
